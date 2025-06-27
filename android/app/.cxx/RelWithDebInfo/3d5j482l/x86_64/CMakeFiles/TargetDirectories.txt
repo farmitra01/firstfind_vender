@@ -1,0 +1,2 @@
+D:/Amit sir office flutter project/VendorApp_28_feb/vendor_firstfind/android/app/.cxx/RelWithDebInfo/3d5j482l/x86_64/CMakeFiles/edit_cache.dir
+D:/Amit sir office flutter project/VendorApp_28_feb/vendor_firstfind/android/app/.cxx/RelWithDebInfo/3d5j482l/x86_64/CMakeFiles/rebuild_cache.dir
